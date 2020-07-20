@@ -39,7 +39,7 @@ extra_css:
 # Plugins
 plugins:
   - search
-  - awesome-pages
+ # - awesome-pages
 
 
 # Extensions
